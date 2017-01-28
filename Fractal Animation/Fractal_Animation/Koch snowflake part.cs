@@ -20,11 +20,11 @@ namespace Fractal_Animation
             vertices = new VertexPositionColor[3];
 
             vertices[0].Position = new Vector3(-1.5f, -2.25f, 0f);
-            vertices[0].Color = Color.LightBlue;
+            vertices[0].Color = Color.Yellow;
             vertices[1].Position = new Vector3(0, 2.25f, 0f);
-            vertices[1].Color = Color.LightBlue;
+            vertices[1].Color = Color.Orange;
             vertices[2].Position = new Vector3(1.5f, -2.25f, 0f);
-            vertices[2].Color = Color.LightBlue;
+            vertices[2].Color = Color.Red;
         }
         public Koch_snowflake_part(VertexPositionColor Edge1, VertexPositionColor Edge2, VertexPositionColor Edge3)
         {
