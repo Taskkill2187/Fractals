@@ -24,7 +24,7 @@ namespace Fractal_Animation
             vertices[1].Position = new Vector3(0, 2.25f, 0f);
             vertices[1].Color = Color.LightBlue;
             vertices[2].Position = new Vector3(1.5f, -2.25f, 0f);
-            vertices[2].Color = Color.LightBlue;
+            vertices[2].Color = Color.Red;
         }
         public Sierpinski_Triangle_Part(Vector3 Edge1, Vector3 Egde2, Vector3 Edge3)
         {
