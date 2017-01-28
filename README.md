@@ -1,3 +1,4 @@
+/----------READ BEFORE WONDERING HOW THIS WORKS---------/
 
 The programm is at "Fractals/Fractal Animation/Fractal_Animation/bin/x86/Debug/"
 
